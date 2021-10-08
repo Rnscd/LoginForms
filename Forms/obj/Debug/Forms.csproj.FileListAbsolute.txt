@@ -1,0 +1,10 @@
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\bin\Debug\Forms.exe.config
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\bin\Debug\Forms.exe
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\bin\Debug\Forms.pdb
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.exe
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.pdb
+C:\Users\Ren_S\source\repos\TutorialFormsELogin\Forms\obj\Debug\Forms.FrmPrincipal.resources
